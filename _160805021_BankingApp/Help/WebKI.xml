@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Account class">
+    <HelpKINode Title="Account Class" Url="html/f2f0d2d0-7b86-32a3-e038-3087e724ca99.htm" />
+    <HelpKINode Title="about Account class" Url="html/f2f0d2d0-7b86-32a3-e038-3087e724ca99.htm" />
+    <HelpKINode Title="constructor" Url="html/231f7bb4-bf34-7ebe-b2c2-264122395d96.htm" />
+    <HelpKINode Title="fields" Url="html/cba46681-1d6e-7dce-0fb0-c6e10e3a3523.htm" />
+    <HelpKINode Title="methods" Url="html/474327ef-c4c7-c81d-98a6-f658a85177bb.htm" />
+    <HelpKINode Title="properties" Url="html/64f50f84-0875-31e4-7080-0dd43e7ca59d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Account.Account constructor" Url="html/231f7bb4-bf34-7ebe-b2c2-264122395d96.htm" />
+  <HelpKINode Title="Account.accountName field" Url="html/f91f46f6-0aa3-604c-103a-6b1027e6b96c.htm" />
+  <HelpKINode Title="Account.accountNumber field" Url="html/a4490f09-70ec-396b-4c77-a5cc63a4998b.htm" />
+  <HelpKINode Title="Account.balance field" Url="html/3d84dc2e-5491-d2ef-fe5c-d83a634383c4.htm" />
+  <HelpKINode Title="Account.deposit method" Url="html/14247b0d-821b-0e1e-00c6-95cabfa79005.htm" />
+  <HelpKINode Title="Account.getAccountNumber method" Url="html/249d0343-10b6-6e15-566f-6a2b7ea81ff1.htm" />
+  <HelpKINode Title="Account.getPIN property" Url="html/13409fe3-1cd1-d4c2-1df7-3cca7f2383e2.htm" />
+  <HelpKINode Title="Account.loadAirtime method" Url="html/b02b12af-dc1b-bd86-0eb7-ee36ef2a2469.htm" />
+  <HelpKINode Title="Account.showInfo method" Url="html/d77253a4-0162-d06d-0d0c-0e25cc4827d7.htm" />
+  <HelpKINode Title="Account.transfer method" Url="html/486c2b4f-a2b3-93c5-16c3-0690a04ff3c5.htm" />
+  <HelpKINode Title="Account.withdraw method" Url="html/d1faf21f-5a54-cdd5-cdcf-87e53b5e287f.htm" />
+  <HelpKINode Title="accountName field" Url="html/f91f46f6-0aa3-604c-103a-6b1027e6b96c.htm" />
+  <HelpKINode Title="accountNumber field" Url="html/a4490f09-70ec-396b-4c77-a5cc63a4998b.htm" />
+  <HelpKINode Title="balance field" Url="html/3d84dc2e-5491-d2ef-fe5c-d83a634383c4.htm" />
+  <HelpKINode Title="deposit method" Url="html/14247b0d-821b-0e1e-00c6-95cabfa79005.htm" />
+  <HelpKINode Title="getAccountNumber method" Url="html/249d0343-10b6-6e15-566f-6a2b7ea81ff1.htm" />
+  <HelpKINode Title="getPIN property" Url="html/13409fe3-1cd1-d4c2-1df7-3cca7f2383e2.htm" />
+  <HelpKINode Title="loadAirtime method" Url="html/b02b12af-dc1b-bd86-0eb7-ee36ef2a2469.htm" />
+  <HelpKINode Title="Main method" Url="html/decef6af-a9a8-d70a-784f-8b0c8f5567b5.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/2fb89936-b4bd-dd73-405c-a3695c346f87.htm" />
+    <HelpKINode Title="about Program class" Url="html/2fb89936-b4bd-dd73-405c-a3695c346f87.htm" />
+    <HelpKINode Title="constructor" Url="html/f7b426f8-db93-ea7d-b019-42e9bbc96408.htm" />
+    <HelpKINode Title="methods" Url="html/d723fed7-16e3-5afc-fe74-1b3b445bb70d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.Main method" Url="html/decef6af-a9a8-d70a-784f-8b0c8f5567b5.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/f7b426f8-db93-ea7d-b019-42e9bbc96408.htm" />
+  <HelpKINode Title="Program.ReadPassword method" Url="html/51bcbd8f-f91a-4419-9de3-e05aea0ea930.htm" />
+  <HelpKINode Title="ReadPassword method" Url="html/51bcbd8f-f91a-4419-9de3-e05aea0ea930.htm" />
+  <HelpKINode Title="showInfo method" Url="html/d77253a4-0162-d06d-0d0c-0e25cc4827d7.htm" />
+  <HelpKINode Title="transfer method" Url="html/486c2b4f-a2b3-93c5-16c3-0690a04ff3c5.htm" />
+  <HelpKINode Title="withdraw method" Url="html/d1faf21f-5a54-cdd5-cdcf-87e53b5e287f.htm" />
+  <HelpKINode Title="_160805021_BankingApp namespace" Url="html/cae21b26-ac4c-db34-3e82-509042349a2f.htm" />
+  <HelpKINode Title="_160805021_BankingApp.Account class" Url="html/f2f0d2d0-7b86-32a3-e038-3087e724ca99.htm" />
+  <HelpKINode Title="_160805021_BankingApp.Program class" Url="html/2fb89936-b4bd-dd73-405c-a3695c346f87.htm" />
+</HelpKI>

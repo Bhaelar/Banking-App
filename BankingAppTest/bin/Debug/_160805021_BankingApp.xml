@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>_160805021_BankingApp</name>
+    </assembly>
+    <members>
+        <member name="T:_160805021_BankingApp.Account">
+            <summary>
+            Account.cs is the parent class containing the constructor, methods and functionalities of the bank application.
+            </summary>
+        </member>
+        <member name="F:_160805021_BankingApp.Account.accountName">
+            <summary>
+            Name of the bank account
+            </summary>
+        </member>
+        <member name="F:_160805021_BankingApp.Account.balance">
+            <summary>
+            Balance of the bank account
+            </summary>
+        </member>
+        <member name="F:_160805021_BankingApp.Account.accountNumber">
+            <summary>
+            The account number generated randomly by the program
+            </summary>
+        </member>
+        <member name="F:_160805021_BankingApp.Account.PIN">
+            <summary>
+            The 4-digit safety PIN that the user will use to guard his account
+            </summary>
+        </member>
+        <member name="M:_160805021_BankingApp.Account.#ctor(System.String,System.Double,System.String,System.String)">
+            <summary>
+            Constructor for the account class
+            </summary>
+            <param name="accountName"> Name of the bank account</param>
+            <param name="initDeposit"> The initial amount the accountholder wishes to deposit</param>
+            <param name="accountNumber"> The account number that will be generated randomly by the program</param>
+            <param name="PIN"> The 4-digit safety PIN that the user will use to guard his account</param>
+        </member>
+        <member name="M:_160805021_BankingApp.Account.getAccountNumber">
+            <summary>
+            Gets Account number
+            </summary>
+            <returns> The bank account number </returns>
+        </member>
+        <member name="M:_160805021_BankingApp.Account.deposit(System.Double)">
+            <summary>
+            Method to deposit money into the bank account
+            </summary>
+            <param name="amount"> Amount to be deposited </param>
+        </member>
+        <member name="M:_160805021_BankingApp.Account.withdraw(System.Double)">
+            <summary>
+            Method to withdraw money from the bank account
+            </summary>
+            <param name="amount"> Amount to be withdrawn </param>
+        </member>
+        <member name="M:_160805021_BankingApp.Account.transfer(System.String,System.Double)">
+            <summary>
+            Method to transfer money into another bank account
+            </summary>
+            <param name="toWhere"> Account to transfer the money to </param>
+            <param name="amount"> Amount to be transferred </param>
+        </member>
+        <member name="M:_160805021_BankingApp.Account.showInfo">
+            <summary>
+            Method that displays the name, account number and balance of a bank account
+            </summary>
+        </member>
+        <member name="M:_160805021_BankingApp.Account.loadAirtime(System.String,System.Double)">
+            <summary>
+            Method to load a mobile phone number with airtime
+            </summary>
+            <param name="number"> Mobile phone number to be loaded </param>
+            <param name="amount"> Amount to be loaded on the number </param>
+        </member>
+        <member name="P:_160805021_BankingApp.Account.getPIN">
+            <summary>
+            Get PIN
+            </summary>
+            <returns> A 4-digit PIN </returns>
+        </member>
+    </members>
+</doc>
